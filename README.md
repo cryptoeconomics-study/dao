@@ -1,12 +1,19 @@
-# Cryptoeconomics.Study DAO
+# Cryptoeconomics.Study DAO 
 
-This repo is for Issues related to the Cryptoeconomics.Study DAO.
+This repo is for Issues related to the [Cryptoeconomics.Study DAO](https://rinkeby.aragon.org/#/0xEAA147020b006e6Bfe9e3e1A9f1FaD330A9E20F5/).
 
 In the future we will have deployment templates for other communities to recreate the Cryptoeconomics.Study DAO model.
 
 We might even start working on our own Aragon apps here.
 
 <br />
+
+## DAO Info 🦅
+
+The Cryptoeconomics.Study DAO is an Aragon DAO on Rinkeby
+- https://rinkeby.aragon.org/#/0xEAA147020b006e6Bfe9e3e1A9f1FaD330A9E20F5/
+
+<br /
 
 ## Bounties 🥕
 
