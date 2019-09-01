@@ -13,7 +13,7 @@ We might even start working on our own Aragon apps here.
 The Cryptoeconomics.Study DAO is an Aragon DAO on Rinkeby
 - https://rinkeby.aragon.org/#/0xEAA147020b006e6Bfe9e3e1A9f1FaD330A9E20F5/
 
-<br /
+<br />
 
 ## Bounties 🥕
 
