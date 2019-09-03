@@ -1,7 +1,3 @@
----
-title: "Gerbils 🐹"
----
-
 <br />
 
 ## What is a Gerbil?

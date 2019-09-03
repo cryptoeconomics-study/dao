@@ -1,7 +1,3 @@
----
-title: "Carrots 🥕"
----
-
 <br />
 
 ## What is a Carrot?

@@ -1,7 +1,3 @@
----
-title: "Advisers 🧙"
----
-
 <br />
 
 Advisers are an essential group in the Cryptoeconomics.Study DAO. Advisers help shape product decisions, promote upcoming product releases, and provide perspective on important debates within the community. Advisers are trusted members of the community, but are not expected to be involved in day to day activities. The expected engagement for advisers is to check in about once a month. This will help Gerbils and Carrot holders make good decisions that are best for the community.

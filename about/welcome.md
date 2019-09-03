@@ -1,7 +1,3 @@
----
-title: "Welcome 👋"
----
-
 <br />
 
 Hi! Welcome to the Cryptoeconomics.Study community.
